@@ -29,10 +29,9 @@ li{
     align-items: center;
     justify-content: center;
     position: relative;
-    right: 16px;
     font-size: 2.2rem;
-    padding: 0px 0px;
-    margin: 5px 289px;
+    padding: 5px;
+    margin: 5px auto;
     cursor: pointer;
     width: 50%;
     color: white;
